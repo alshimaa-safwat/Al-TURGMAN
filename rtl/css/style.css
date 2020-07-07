@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     box-sizing:border-box;  
-    font-family: "Roboto",sans-serif;
+    font-family: hanimation;
 }
 /* general */
 
@@ -126,7 +126,8 @@ header .actions-btns a{
     padding: 0 12px;
     height: 36px;
     line-height: 36px;
-    font-size: 18px;
+    font-size: 16px;
+    letter-spacing:2px;
     display:inline-block;
     font-weight:700;
     border-radius:5px;;
@@ -217,7 +218,7 @@ header .actions-btns a.btn{
 }
 
 .about .about-content h2{
-    font-size:1.8rem;
+    font-size:1.7rem;
     color:#0c3f71;
     font-weight:bold;
 }
@@ -387,7 +388,7 @@ header .actions-btns a.btn{
 }
 
 .language h3{
-    font-size:1.3rem;
+    font-size:1.2rem;
     color:#0c3f71;
     font-weight:700;
     text-align:center;
@@ -965,7 +966,7 @@ footer .our-services li a{
 
 .goals li{
     font-size:18px;
-    line-height:2;
+    line-height:2.5;
     font-weight:700;
    
 }
